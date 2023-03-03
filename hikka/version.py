@@ -11,7 +11,6 @@ __version__ = (1, 6, 1)
 netver = (0, 3, 0)
 netrev = ""
 import os
-
 import git
 
 try:
